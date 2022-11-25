@@ -10,7 +10,6 @@ capital_alphabet = ['A','B','C','D','E','F','G','H','I',
 for i in range(len(S)):
     if S[i]:
         if S[i] in alphabet:
-            print(alphabet.index(S[i])+1)
             S[i] = alphabet[(alphabet.index(S[i])+13)%len(alphabet)]
         elif S[i] in capital_alphabet:
             S[i] = capital_alphabet[(capital_alphabet.index(S[i])+13)%len(alphabet)]
