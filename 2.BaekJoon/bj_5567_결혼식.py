@@ -24,7 +24,3 @@ for col in range(2,N+1):
         
 friend[1] = 0
 print(friend.count(1))
-# print(friend)
-# print("")
-# for _ in graph:
-#     print(_)
