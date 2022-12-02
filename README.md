@@ -12,4 +12,4 @@ https://www.acmicpc.net/ <br>
 
 ## 3. CodeTree
 https://www.codetree.ai/frequent-problems <br>
-[풀이한 repository]()
+[풀이한 repository](https://github.com/taehyeong51/Coding-Test/tree/main/3.CodeTree)
