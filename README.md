@@ -8,11 +8,11 @@ https://swexpertacademy.com/main/main.do <br>
 [풀이한 repository](https://github.com/taehyeong51/Coding-Test/tree/main/1.SWEA)
 
 ## 2. BaekJoon Online Judge
-![https://www.acmicpc.net](https://github.com/taehyeong51/Coding-Test/blob/main/2.BaekJoon/bj.png?raw=true) <br>
+[![](https://github.com/taehyeong51/Coding-Test/blob/main/2.BaekJoon/bj.png?raw=true)](https://www.acmicpc.net) <br>
 https://www.acmicpc.net/ <br>
 [풀이한 repository](https://github.com/taehyeong51/Coding-Test/tree/main/2.BaekJoon)
 
 ## 3. CodeTree
-![https://www.codetree.ai/frequent-problems](https://github.com/taehyeong51/Coding-Test/blob/main/3.CodeTree/codetree.png?raw=true) <br>
+[![](https://github.com/taehyeong51/Coding-Test/blob/main/3.CodeTree/codetree.png?raw=true)](https://www.codetree.ai/frequent-problems) <br>
 https://www.codetree.ai/frequent-problems <br>
 [풀이한 repository](https://github.com/taehyeong51/Coding-Test/tree/main/3.CodeTree)
